@@ -9,7 +9,7 @@ Built using **Next.js**, **TypeScript**, and **@notionhq/client**, this project 
 
 To connect this server with Cursor or another AI tool, paste the following JSON into Cursor Settings → MCP → Add MCP Server:
 
-```json
+json
 {
   "mcpServers": {
     "HeadStarter-MCP": {
@@ -88,4 +88,3 @@ HeadStarter Intern | Sheridan College 🇨🇦
 
 
 
-Ask ChatGPT
